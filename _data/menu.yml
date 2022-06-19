@@ -1,6 +1,6 @@
-- title: 首页
+- title: 主页
   url: /
-- title: 标签
+- title: 品牌
   url: /pages/categories.html
 - title: 链接
   url: /pages/links.html
