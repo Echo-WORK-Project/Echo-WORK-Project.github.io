@@ -2,7 +2,7 @@
 layout: mypost
 title: Honda Civic FD2 Type-R MugenRR
 categories: [Honda,Mugen]
-extMath: true
+extMath: false
 ---
 
 车辆特性:
@@ -41,4 +41,4 @@ extMath: true
 
 下载链接:
 
-[天翼云盘(访问码vnO4)](https://cloud.189.cn/t/6BBfymJ3Evqq)
+[天翼云盘 (访问码vnO4)](https://cloud.189.cn/t/6BBfymJ3Evqq)
