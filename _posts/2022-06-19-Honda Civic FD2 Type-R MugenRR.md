@@ -15,7 +15,7 @@ extMath: false
 ```
 
 以下是车辆截图
-![车辆截图1](gallery33.jpg)
+![车辆截图1](https://pic.imgdb.cn/item/62af5cd80947543129081dbc.jpg)
 
 ![车辆截图1](gallery34.jpg)
 
