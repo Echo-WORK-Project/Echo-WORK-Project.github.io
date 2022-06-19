@@ -1,10 +1,12 @@
-- title: 主页
-  url: /
-- title: 车辆品牌
-  url: /pages/Brands.html
-- title: 链接
+- title: Categories
+  url: /pages/categories.html
+- title: Search
+  url: /pages/search.html
+- title: Micro
+  url: /pages/micro.html
+- title: Links
   url: /pages/links.html
-- title: 留言
+- title: Message
   url: /pages/message.html
-- title: 关于
+- title: About
   url: /pages/about.html
