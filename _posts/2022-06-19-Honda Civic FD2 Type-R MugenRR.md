@@ -14,4 +14,5 @@ extMath: true
 
 > MugenRR普通版专属轮毂
 
-![车辆截图1](https://i.imgur.com/reuCnxT.jpg)
+以下是车辆截图
+![车辆截图1](gallery33.jpg)
