@@ -1,32 +1,43 @@
 ---
 layout: mypost
-title: 关于我
+title: 关于我们
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> Hello 欢迎来到Echo WORK！
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量（下线了）
+该官网托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”。
 
-主题是自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
+并且，该网站用作发布Mod和地图Mod使用，以便更好地让玩家们寻找到自己喜欢的车辆和地图。
 
-## 相关技能
+## 关于我们
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
+- Echo WORK建立于2021.5.8，我们专注于JDM样式化以及日本本土车辆的模组创作，并且也专注于山路包、首都高、赛道等方面的地图制作。
 
-- 熟悉 Java，NodeJs,Go 等后端语言
+- 团队成员中有90%的成员已玩GTASA/SAMP至少5年-10年的时间，部分成员也是SAMP赛车界的元老级人物。
 
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
+- 我们致力于在SAMP中还原出日本本地的氛围，以及令玩家能在里面畅玩，一起走街、一起聚会、一起赛车。
 
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
+- 赛道方面我们团队刚刚起步，未来也许还会结合F1/LM/GT等方面的车辆制作
 
-- Linux 的简单使用，各种服务的搭建
+## 团队成员
 
-- 能够使用 Git/SVN 对代码版本进行控制
+```
+kKsk/Alonzo_Max
+ArvinJM
+SoloBag
+战乐 灵弦
+Access
+GongB
+Iridescent
+KanoD
+小宇
+Juzi
+```
 
-## 联系我
+## 联系我们
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1772314831
+- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1041729868
 
 - Email&nbsp;: [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
 
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
+- Bilibili: [我们的Bilibili](https://b23.tv/uNsKVf2)
