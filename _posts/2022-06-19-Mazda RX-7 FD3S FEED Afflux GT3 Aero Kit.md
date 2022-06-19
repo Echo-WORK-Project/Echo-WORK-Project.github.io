@@ -24,7 +24,7 @@ extMath: false
 
 ![车辆截图1](sa-mp-003.png)
 
-![车辆截图1]sa-mp-0004png)
+![车辆截图1](sa-mp-004.png)
 
 ![车辆截图1](sa-mp-005.png)
 
