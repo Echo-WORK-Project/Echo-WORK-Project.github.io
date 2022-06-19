@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Mazda RX-7 FD3S FEED Afflux GT3 Aero Kit
-categories: [Mazda]
+categories: [Mazda1]
 extMath: false
 ---
 
