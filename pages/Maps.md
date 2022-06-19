@@ -37,7 +37,7 @@ _福冈都市高速_
 版本: 1.0 Final
 更新日期: 2022.06.05
 更新内容: 完全适配化SAMP
-备注: 模型来自，并由Echo WORK对SAMP适配化
+备注: 模型来自一位外国人:Highwaywarrior，并由Echo WORK对SAMP适配化
 ```
 
 下载链接
