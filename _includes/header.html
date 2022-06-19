@@ -1,8 +1,19 @@
-<header class="header select-none">
+<header class="header">
+  <img class="logo" src="{{ site.baseurl }}/static/img/logo.jpg" alt="logo"/>
   <nav class="menu">
-    <b><a href="{{ site.domainUrl }}" class="hover-underline">{{ site.title }}</a> </b>
-    {% for menu in site.data.menu -%}
-    <a href="{{ site.baseurl }}{{ menu.url }}" class="hover-underline">{{ menu.title }}</a>
+    {% for menu in site.menu -%}
+
+      {%- assign target = "" %}
+      {%- if menu.target %}
+        {% capture target %}target="{{ menu.target }}"{% endcapture %}
+      {%- endif %}
+
+      {%- assign href = menu.url %}
+      {%- unless href contains "://" %}
+        {% capture href %}{{ site.baseurl }}{{ menu.url }}{% endcapture %}
+      {%- endunless -%}
+
+      <a href="{{href}}" {{target}} class="hover-underline">{{ menu.title }}</a>
     {% endfor -%}
-    </nav>
+  </nav>
 </header>
