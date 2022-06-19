@@ -38,6 +38,4 @@ Juzi
 
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1041729868
 
-- Email&nbsp;: [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
-
 - Bilibili: [我们的Bilibili](https://b23.tv/uNsKVf2)
