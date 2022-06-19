@@ -1,0 +1,10 @@
+- title: 首页
+  url: /
+- title: 标签
+  url: /pages/categories.html
+- title: 链接
+  url: /pages/links.html
+- title: 留言
+  url: /pages/message.html
+- title: 关于
+  url: /pages/about.html
