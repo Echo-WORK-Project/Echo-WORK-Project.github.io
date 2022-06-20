@@ -36,6 +36,6 @@ Juzi
 
 ## 联系我们
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1041729868
+- 我们的QQ群:1041729868
 
 - Bilibili: [我们的Bilibili](https://b23.tv/uNsKVf2)
