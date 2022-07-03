@@ -29,10 +29,12 @@ tucaoUrl: https://support.qq.com/product/413721
 menu:
   - title: 主页
     url: /
-  - title: 车辆品牌
+  - title: 车辆
     url: /pages/Brands.html
-  - title: 地图
-    url: /pages/Maps.html
+  - title: 山路
+    url: /pages/Maps_Touge.html
+  - title: 首都高
+    url: /pages/Maps_Shutoko.html
   - title: 搜索
     url: /pages/search.html
   - title: 留言
