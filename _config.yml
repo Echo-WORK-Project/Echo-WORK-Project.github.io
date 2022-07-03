@@ -35,6 +35,8 @@ menu:
     url: /pages/Maps_Touge.html
   - title: 首都高
     url: /pages/Maps_Shutoko.html
+  - title: 赛道
+    url: /pages/Maps_Track.html
   - title: 搜索
     url: /pages/search.html
   - title: 留言

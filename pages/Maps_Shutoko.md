@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 地图Mod
+title: 首都高Mod
 ---
 # 日本高速公路 (俗称: 首都高)
 
