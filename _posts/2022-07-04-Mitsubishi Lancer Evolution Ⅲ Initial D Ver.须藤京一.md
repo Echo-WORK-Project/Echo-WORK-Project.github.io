@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Mitsubishi Lancer Evolution IV Initial D Ver.岩城清次
+title: Mitsubishi Lancer Evolution Ⅲ Initial D Ver.须藤京一
 categories: [Mitsubishi,Initial D]
 extMath: false
 ---
