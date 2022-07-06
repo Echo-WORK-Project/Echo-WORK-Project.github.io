@@ -5,6 +5,7 @@ categories: [Mitsubishi,Initial D]
 extMath: false
 ---
 制作：ArvinJM
+
 车辆特性:
 
 ```
