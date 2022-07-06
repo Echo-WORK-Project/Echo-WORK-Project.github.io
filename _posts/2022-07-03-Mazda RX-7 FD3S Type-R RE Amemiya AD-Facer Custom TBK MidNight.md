@@ -4,7 +4,7 @@ title: Mazda RX-7 FD3S Type-R RE Amemiya AD-Facer Custom TBK MidNight
 categories: [Mazda]
 extMath: false
 ---
-
+制作：kKsk, Access
 车辆特性:
 
 ```

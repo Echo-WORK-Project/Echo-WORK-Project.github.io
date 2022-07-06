@@ -4,7 +4,7 @@ title: Mitsubishi Lancer Evolution IV Initial D Ver.岩城清次
 categories: [Mitsubishi,Initial D]
 extMath: false
 ---
-
+制作：ArvinJM
 车辆特性:
 
 ```

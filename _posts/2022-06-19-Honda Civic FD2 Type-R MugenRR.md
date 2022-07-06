@@ -4,7 +4,7 @@ title: Honda Civic FD2 Type-R MugenRR
 categories: [Honda,Mugen]
 extMath: false
 ---
-
+制作：kKsk, Access, GongB
 车辆特性:
 
 ```
