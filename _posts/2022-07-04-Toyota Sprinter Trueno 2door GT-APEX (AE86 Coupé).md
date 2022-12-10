@@ -31,4 +31,4 @@ extMath: false
 
 下载链接:
 
-[天翼云盘 (访问码:6yl7)](https://cloud.189.cn/t/rmAVzq2QV7Rj)
+[蓝奏云](https://kskmodel.lanzoue.com/ikCjz0id92cf)

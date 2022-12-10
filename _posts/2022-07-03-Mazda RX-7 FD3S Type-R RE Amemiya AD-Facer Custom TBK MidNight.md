@@ -35,4 +35,4 @@ extMath: false
 
 下载链接:
 
-暂无，由于本车辆制作繁琐，不予免费提供
+[蓝奏云](https://kskmodel.lanzoue.com/iLETi0id9jvg)

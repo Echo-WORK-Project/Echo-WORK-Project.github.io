@@ -49,4 +49,4 @@ extMath: false
 
 下载链接:
 
-[天翼云盘 (访问码:7lk8)](https://cloud.189.cn/t/NRVvi27rQFnq)
+[蓝奏云](https://kskmodel.lanzoue.com/isjYa0id8avg)

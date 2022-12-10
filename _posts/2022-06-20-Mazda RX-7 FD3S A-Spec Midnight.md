@@ -23,4 +23,4 @@ extMath: false
 
 下载链接:
 
-[天翼云盘 (访问码:kd5k)](https://cloud.189.cn/t/AN7baayuyyMj)
+[蓝奏云](https://kskmodel.lanzoue.com/iykht0id8tva)
