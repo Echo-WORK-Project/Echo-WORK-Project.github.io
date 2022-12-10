@@ -21,7 +21,7 @@ domainUrl: 'https://echo-work.ltd/'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/413721
+tucaoUrl: https://pd.qq.com/s/9k4j45dru
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -39,7 +39,7 @@ menu:
     url: /pages/Maps_Track.html
   - title: 搜索
     url: /pages/search.html
-  - title: 留言
+  - title: 加入
     url: /pages/chat.html
   - title: 关于
     url: /pages/about.html

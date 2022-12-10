@@ -38,4 +38,6 @@ KanoD
 
 - 我们的QQ群:1041729868
 
+- QQ频道：[加入QQ频道](https://pd.qq.com/s/9k4j45dru)
+
 - Bilibili: [我们的Bilibili](https://b23.tv/uNsKVf2)
