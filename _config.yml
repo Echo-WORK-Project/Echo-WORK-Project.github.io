@@ -39,6 +39,10 @@ menu:
     url: /pages/Maps_Track.html
   - title: 搜索
     url: /pages/search.html
+  - title: Mod
+    url: /pages/Mods_Modkit.html
+  - title: 工具
+    url: /pages/Mods_Tools.html
   - title: 加入
     url: /pages/chat.html
   - title: 关于
