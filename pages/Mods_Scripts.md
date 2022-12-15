@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 常用Mod下载
+title: 插件下载
 ---
 # 暂无下载
 
