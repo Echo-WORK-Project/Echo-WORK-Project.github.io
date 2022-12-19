@@ -47,6 +47,8 @@ menu:
     url: /pages/Mods_Toolkits.html
   - title: 加入
     url: /pages/chat.html
+  - title: 地图安装教程
+    url: /pages/Teachs_Maps.html
   - title: 关于
     url: /pages/about.html
 
