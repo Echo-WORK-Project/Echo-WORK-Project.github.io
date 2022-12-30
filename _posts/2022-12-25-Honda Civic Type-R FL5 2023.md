@@ -51,4 +51,4 @@ extMath: false
 
 下载链接:
 
-暂无
+[蓝奏云](https://kskmodel.lanzoue.com/i3Bzt0jqy1ne)
