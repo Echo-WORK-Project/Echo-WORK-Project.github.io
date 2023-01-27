@@ -37,8 +37,6 @@ KanoD
 
 ## 联系我们
 
-- 我们的QQ群(建议加QQ频道):[加入QQ群](https://jq.qq.com/?_wv=1027&k=kaAI348N)
-
 - QQ频道：[加入QQ频道](https://pd.qq.com/s/9k4j45dru)
 
 - Bilibili: [我们的Bilibili](https://b23.tv/uNsKVf2)
